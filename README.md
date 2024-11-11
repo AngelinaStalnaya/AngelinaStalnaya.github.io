@@ -1,8 +1,7 @@
 # Portfolio projects
 
-
-## Furniture store (SitDownPlease store)
-link: https://angelinastalnaya.github.io/Furniture_store/
+## Furniture store 
+[SitDownPlease store](https://angelinastalnaya.github.io/Furniture_store)
 
 - Consists of three parts: main landing page, cataloque, product card page;
 - Clear adaptive semantic layout landing for desktop, laptop and mobile;
@@ -19,8 +18,8 @@ link: https://angelinastalnaya.github.io/Furniture_store/
 - Animation usage;
 - Google Pagespeed Insights (Lightroom) — within green zone.
 
-## Landing (W-Wave Radio)
-link: https://angelinastalnaya.github.io/Radio-landing/
+## Landing
+[W-Wave Radio](https://angelinastalnaya.github.io/Radio-landing/)
 
 - Clear adaptive semantic layout landing for desktop, laptop and mobile;
 - Cross-browser layout similar for Chrome, Firefox, Safari, Opera, Edge;
@@ -33,8 +32,8 @@ link: https://angelinastalnaya.github.io/Radio-landing/
 - Valid HTLS and CSS tags.
 
 
-## Telegram bot (Hotel finder telegram bot)
-link to code: https://github.com/AngelinaStalnaya/Telegram-Hotelfinder-Bot
+## Telegram bot 
+[Hotel finder telegram bot-link to code](https://github.com/AngelinaStalnaya/Telegram-Hotelfinder-Bot)
 Hotel finder telegram bot is a bot written on Python using aiogram library for dealing with telegram API.
 Currently, the Hotel finder telegram bot project supports execution of the next custom commands:
 * history - for showing 10 last research request of the user;
@@ -45,14 +44,14 @@ Currently, the Hotel finder telegram bot project supports execution of the next 
 Three last commands support the option of sending photos of  each hotel.
 >All the prices are presented for 1 room for 2 adults.
 
-## Grid-example (Photo studio)
-link: https://angelinastalnaya.github.io/grid-example/
+## Grid-example
+[Photo studio](https://angelinastalnaya.github.io/grid-example/)
 
 ## JS-animation
-link: https://angelinastalnaya.github.io/js-animation/
+[Photo studio](https://angelinastalnaya.github.io/js-animation/)
 
 ## Advanced CSS
-link: https://angelinastalnaya.github.io/advanced-css/
+[Lagoona page](https://angelinastalnaya.github.io/advanced-css/)
 
 ## Cross-browser example
-link: https://angelinastalnaya.github.io/cross-browser/
+[Project systems](https://angelinastalnaya.github.io/cross-browser/)
